@@ -1,0 +1,9 @@
+com\practice\springdemo\service\ProductService.class
+com\practice\springdemo\controller\DashboardController.class
+com\practice\springdemo\dto\ProductDTO.class
+com\practice\springdemo\repository\ProductRepository.class
+com\practice\springdemo\controller\ProductController.class
+com\practice\springdemo\config\DataInitializer.class
+com\practice\springdemo\entity\Product.class
+com\practice\springdemo\exception\GlobalExceptionHandler.class
+com\practice\springdemo\SpringdemoApplication.class
